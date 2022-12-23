@@ -9,7 +9,7 @@ budget_data = os.path.join("Resources","budget_data.csv")
 with open(budget_data, encoding = "utf-8-sig",) as csv_file:
     rdcsv = csv.reader(csv_file, delimiter=',')
   
-
+### variable
     header = next(csv_file)
     frstrcrd = next(rdcsv)
     months = 1
@@ -34,7 +34,7 @@ with open(budget_data, encoding = "utf-8-sig",) as csv_file:
     min_val = min(dif_array)
     index_min = dif_array.index(min_val)
     month_min = months_array[index_min]
-
+### Time To Concatenate
     title = """Financial Analysis
 ------------------------------"""
 

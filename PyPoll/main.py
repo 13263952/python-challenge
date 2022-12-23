@@ -1,3 +1,5 @@
+######### David Duran Berkeley Bootcamp ###########
+#########  12/21/22 Module 3 Challenge  ###########
 import os
 import csv
 
@@ -8,7 +10,7 @@ with open(elect_data, encoding = "utf-8-sig",) as csv_file:
     header = next(csv_file)
 
  
-    #dont forget dheaders etc
+    #dont forget headers
 
     #total votes
     votes_csted = 0
@@ -36,7 +38,7 @@ with open(elect_data, encoding = "utf-8-sig",) as csv_file:
     f'h {elect_rnnrs["Diana DeGette"]["votes"]}') 
     effit2 = [f'{k}: {v["percentage"]}% ({v["votes"]})' for k,v in elect_rnnrs.items()]
     effit2 = "\n".join(effit2)
-
+###concatenate
     
     title_1 = """Election Results
 -------------------------"""
