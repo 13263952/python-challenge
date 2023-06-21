@@ -1,4 +1,3 @@
-
 ## Analyzing Financial Records
 In this project, I used Python to analyze the financial records of a company. I began by importing the dataset called "budget_data.csv," which consists of two columns: "Date" and "Profit/Losses." By running my Python script, I performed the following calculations:
 
@@ -9,7 +8,7 @@ In this project, I used Python to analyze the financial records of a company. I 
 - Identified the greatest decrease in profits (date and amount) over the entire period.
 
 Based on my analysis, here are the key findings:
-![Analysis](https://github.com/13263952/python-challenge/blob/main/Images/results1.png)
+![Analysis](https://raw.githubusercontent.com/13263952/python-challenge/main/Images/results1.png)
 
 Moreover, I displayed the analysis on the terminal and exported the results to a text file.
 
@@ -23,7 +22,7 @@ In this project, I helped a small, rural town modernize its vote-counting proces
 - Identified the winner of the election based on the popular vote.
 
 Here are the results of my analysis:
-![Analysis](images/results2.png)
+![Analysis](https://raw.githubusercontent.com/13263952/python-challenge>/main/Images/results2.png)
 
 Similar to the PyBank project, I displayed the analysis on the terminal and exported the results to a text file.
 
