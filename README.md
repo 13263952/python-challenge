@@ -9,7 +9,7 @@ In this project, I used Python to analyze the financial records of a company. I 
 - Identified the greatest decrease in profits (date and amount) over the entire period.
 
 Based on my analysis, here are the key findings:
-![Analysis](images/results1.png)
+![Analysis](https://github.com/13263952/python-challenge/blob/main/Images/results1.png)
 
 Moreover, I displayed the analysis on the terminal and exported the results to a text file.
 
