@@ -22,7 +22,7 @@ In this project, I helped a small, rural town modernize its vote-counting proces
 - Identified the winner of the election based on the popular vote.
 
 Here are the results of my analysis:
-![Analysis](https://raw.githubusercontent.com/13263952/python-challenge>/main/Images/results2.png)
+![Analysis](https://raw.githubusercontent.com/13263952/python-challenge/main/Images/results2.png)
 
 Similar to the PyBank project, I displayed the analysis on the terminal and exported the results to a text file.
 
